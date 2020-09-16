@@ -85,7 +85,7 @@ export default {
   data() {
     return {
       woeid: null,
-      weather: "",
+      weather: [],
       cities: [],
       city: "",
       searchActive: false,
