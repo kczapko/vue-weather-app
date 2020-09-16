@@ -296,6 +296,7 @@ body {
 
 .error {
   position: fixed;
+  z-index: 3;
   left: 50%;
   top: 20px;
   background: rgba(255, 0, 0, 0.3);
